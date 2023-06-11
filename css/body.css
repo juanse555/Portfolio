@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient(rgb(55,118,150)10%,rgb(53, 53, 53)40%);
+}
+.header {
+    display: flex;
+    flex-direction: column;
+}
+
+.header___menu{
+    width: 10vw;
+}
+.header___name{
+    display: flex;
+}
+.header___img{
+    width: 25vw;
+}
+.header___title {
+    width: 50vw;
+}
