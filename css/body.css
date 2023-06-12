@@ -23,9 +23,11 @@ body {
 }
 .header___img{
     width: 25vw;
+    border-radius: 100%;
 }
 .header___title {
     width: 50vw;
     background-color: aliceblue;
+    font-size: 1.7rem;
 
 }
