@@ -7,14 +7,25 @@ body {
 }
 
 .header___menu{
-    width: 10vw;
+    padding: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+.header___icon{
+    align-self: center;
+    width: 1.7rem;
 }
 .header___name{
     display: flex;
+    justify-content: space-around;
+    width: 100%;
 }
 .header___img{
     width: 25vw;
 }
 .header___title {
     width: 50vw;
+    background-color: aliceblue;
+
 }
