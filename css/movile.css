@@ -3,7 +3,7 @@
 .header {
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 20px;
 }
 
 .header___menu{
@@ -20,7 +20,7 @@
 .header___img{
     width: 60vw;
     border-radius: 100%;
-    height: 11rem;
+    height: 13rem;
 }
 
 .header___name{
